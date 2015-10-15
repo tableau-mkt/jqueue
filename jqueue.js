@@ -208,7 +208,7 @@
           status: 'new',
           url: window.location.href,
           entityBundle: dlHelper.get('entityBundle'),
-          entityNid: dlHelper.get('entityNid'),
+          entityId: dlHelper.get('entityId'),
           entityTnid: dlHelper.get('entityTnid')
       }});
 
